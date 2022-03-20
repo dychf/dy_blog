@@ -1203,6 +1203,13 @@ footer .copyright a:hover { color: #666; }
 
 .arCatalog-body .arCatalog-tack3 { padding-left: 66px; }
 
+.arCatalog-body .arCatalog-tack3 a {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
 .article-box .tag {
     margin: 15px 0 10px;
     font-size: 12px;
