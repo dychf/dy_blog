@@ -102,4 +102,7 @@ theme: hexo-theme-bubuzou
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  # repository: https://github.com/dychf/dychf.github.io.git
+  repository: git@github.com:dychf/dychf.github.io.git
+  branch: master
