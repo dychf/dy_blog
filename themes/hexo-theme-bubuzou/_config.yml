@@ -13,9 +13,10 @@ widgets:
 
 # count
 show_count: true
-favicon: https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202010/favicon.ico
-logo: https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202010/logo.png
+favicon: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/images/soccer.png?raw=true
+logo: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/images/soccer.png?raw=true
 style: https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202010/bubuzou.css
+# style: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/css/bubuzou.css?raw=true
 
 # Comment
 #changyan: bubuzou
