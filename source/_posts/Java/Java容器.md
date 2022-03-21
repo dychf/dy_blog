@@ -7,6 +7,8 @@ date: 2022-02-15
 ## 集合概览
 Java 集合， 也叫作容器，主要是由两大接口派生而来：一个是 Collection（有三个主要的子接口：List，Set，Queue）接口，主要用于存放单一元素；另一个是 Map 接口，主要用于存放键值对。
 
+<!-- more -->
+
 ## Arraylist 和 Vector 的区别
 * ArrayList 是 List 的主要实现类，底层使用 Object[ ]存储，适用于频繁的查找工作，线程不安全；
 * Vector 是 List 的古老实现类，底层使用Object[ ] 存储，线程安全的。
