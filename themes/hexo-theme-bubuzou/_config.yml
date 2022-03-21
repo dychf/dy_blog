@@ -36,3 +36,6 @@ ga: UA-65933410-1
 # Copyright Infomation
 startyear: 2020
 
+search:
+  path: search.xml
+  field: post
