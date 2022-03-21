@@ -296,12 +296,12 @@ header {
     z-index: 10;
 }
 .header {
-    height: 60px;
+    height: 40px;
     margin: 0 auto;
 }
 header .logo-link { 
 	float: left;
-	margin-top: 18px;
+	margin-top: 8px;
 	transform: rotate(0deg);
 	transition: 0.6s ease-in-out;
 }
@@ -313,7 +313,7 @@ header .nav {
     float: right;
     left: 80px;
     height: 25px;
-    padding-top: 12px;
+    padding-top: 2px;
     padding-right: 50px;
 }
 
@@ -873,7 +873,7 @@ footer .copyright a:hover { color: #666; }
 .search {
     position: absolute;
     right: 0;
-    top: 15px;
+    top: 5px;
 }
 
 .search a {
