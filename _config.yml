@@ -105,5 +105,5 @@ deploy:
   type: git
   # repository: https://github.com/dychf/dychf.github.io.git
   # repository: git@github.com:dychf/dychf.github.io.git
-  repository: https://gitee.com/dychf/blog.git
+  repository: https://gitee.com/dychf/dychf.git
   branch: master
