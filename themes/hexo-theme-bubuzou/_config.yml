@@ -12,11 +12,13 @@ widgets:
 - archive
 
 # count
-show_count: true
-favicon: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/images/soccer.png?raw=true
-logo: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/images/soccer.png?raw=true
-style: https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202010/bubuzou.css
-# style: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/css/bubuzou.css?raw=true
+# show_count: true
+# favicon: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/images/soccer.png?raw=true
+# logo: https://github.com/dychf/dy_blog/blob/master/themes/hexo-theme-bubuzou/source/images/soccer.png?raw=true
+# style: https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202010/bubuzou.css
+favicon: ./images/soccer.png
+logo: ./images/soccer.png
+style: ./css/bubuzou.css
 
 # Comment
 #changyan: bubuzou
@@ -32,5 +34,5 @@ leancloud:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2016
+startyear: 2020
 
