@@ -1,10 +1,8 @@
----
+
 title: Java并发
-tags: Java 并发 多线程
+tags: Java、并发、多线程
 date: 2022-02-15
 ---
-
-Java并发
 
 ## 并发和并行的区别
 
